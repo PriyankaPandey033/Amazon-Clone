@@ -120,6 +120,6 @@ To deploy the project
 ## Contact
 <!-- - [Email me](mailto:udayvijita3009@gmail.com?subject=Github%20Message) -->
 
-<!-- - [Let's connect on LinkedIn](https://www.linkedin.com/in/vijita-uday/) -->
+- [Let's connect on LinkedIn](https://www.linkedin.com/in/priyankapandey33/)
 
 <!-- - [Check out portfolio website](https://vijita-u.github.io/Portfolio_Vijita_Uday_ReactJs/) -->
